@@ -7,3 +7,8 @@
 ##Inheritance
   Objects can inherit features from other objects.
 - [Exercise 1] (https://github.com/alejo-moreno/javascript/blob/master/Inheritance/exercise1.js)  
+
+##Bibliography
+- [OOP in Javascript] (http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+- [JS design patterns] (http://www.dofactory.com/javascript/design-patterns)
+- [ES6 design patterns] (http://loredanacirstea.github.io/es6-design-patterns/#singleton)
