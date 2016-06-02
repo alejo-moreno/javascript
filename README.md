@@ -13,3 +13,4 @@
 - [JS design patterns] (http://www.dofactory.com/javascript/design-patterns)
 - [ES6 design patterns] (http://loredanacirstea.github.io/es6-design-patterns/#singleton)
 - [ECMAScript 2015] (http://www.ecma-international.org/ecma-262/6.0/)
+- [Universal Module Definition] (https://github.com/umdjs/umd)
